@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "4321 Alton Rd, Miami Beach",
+    "location": "Miami, Florida",
+    "image": "/projectImg.png",
+    "squareFeet": 2350,
+    "garages": 4,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "loanAmount": "$328,000",
+    "ltv": "84.65%",
+    "rate": "11.75%",
+    "term": "12 Months",
+    "price": "$3,45,000"
+  },
+  {
+    "id": 2,
+    "title": "AMLI 7th Street Station",
+    "location": "Houston, Texas",
+    "image": "/projectImg.png",
+    "squareFeet": 2350,
+    "garages": 4,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "loanAmount": "$328,000",
+    "ltv": "84.65%",
+    "rate": "11.75%",
+    "term": "12 Months",
+    "price": "$3,45,000"
+  },
+  {
+    "id": 3,
+    "title": "201 South Orange Avenue",
+    "location": "Orlando, Florida",
+    "image": "/projectImg.png",
+    "squareFeet": 2350,
+    "garages": 4,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "loanAmount": "$328,000",
+    "ltv": "84.65%",
+    "rate": "11.75%",
+    "term": "12 Months",
+    "price": "$3,45,000"
+  }
+]

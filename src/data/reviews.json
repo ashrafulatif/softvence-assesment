@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Name Here",
+    "subtitle": "What an amazing experience",
+    "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ut turpis congue, a accumsan elit ultricies. Vivamus sit amet ligula at libero ullamcorper fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer euismod libero eu quam efficitur, a elementum sem fermentum. Fusce vel ante vel ex cursus.",
+    "avatar": "/profilepic1.png?height=80&width=80"
+  },
+  {
+    "id": 2,
+    "name": "Name Here",
+    "subtitle": "What an amazing experience",
+    "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ut turpis congue, a accumsan elit ultricies. Vivamus sit amet ligula at libero ullamcorper fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer euismod libero eu quam efficitur, a elementum sem fermentum. Fusce vel ante vel ex cursus.",
+    "avatar": "/profilepic2.png?height=80&width=80"
+  },
+  {
+    "id": 3,
+    "name": "Name Here",
+    "subtitle": "What an amazing experience",
+    "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ut turpis congue, a accumsan elit ultricies. Vivamus sit amet ligula at libero ullamcorper fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer euismod libero eu quam efficitur, a elementum sem fermentum. Fusce vel ante vel ex cursus.",
+    "avatar": "/profilepic3.png?height=80&width=80"
+  },
+  {
+    "id": 4,
+    "name": "Name Here",
+    "subtitle": "What an amazing experience",
+    "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ut turpis congue, a accumsan elit ultricies. Vivamus sit amet ligula at libero ullamcorper fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer euismod libero eu quam efficitur, a elementum sem fermentum. Fusce vel ante vel ex cursus.",
+    "avatar": "/profilepic4.png?height=80&width=80"
+  }
+]

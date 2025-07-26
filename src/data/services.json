@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Active Deal",
+    "description": "I have an active deal and would like a Term Sheet",
+    "icon": "handshake",
+    "buttonStyle": "outline"
+  },
+  {
+    "id": 2,
+    "title": "Pre-Approval",
+    "description": "I'd like to to get pre-approved so I can find my next deal.",
+    "icon": "search",
+    "buttonStyle": "filled"
+  },
+  {
+    "id": 3,
+    "title": "Schedule A Call",
+    "description": "I'd like to schedule a call.",
+    "icon": "phone",
+    "buttonStyle": "outline"
+  }
+]
