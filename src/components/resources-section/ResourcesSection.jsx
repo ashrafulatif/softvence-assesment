@@ -2,12 +2,10 @@ import ResourcesCardView from "./ResourcesCardView";
 import data from "../../data/resources.json";
 
 const ResourcesSection = () => {
-  
-
   return (
     <div className="container mx-auto px-4 py-16 max-w-7xl ">
       {/* Header section */}
-      <div className="flex justify-between items-end mb-12 ">
+      <div className="flex justify-between items-end mb-12 " data-aos="fade-up">
         <div className="ml-6">
           <h2 className="text-4xl font-bold text-green-800 leading-tight">
             OTHER RESOURCES
@@ -22,7 +20,10 @@ const ResourcesSection = () => {
       </div>
 
       {/* Cards section */}
-      <div className="flex gap-6 overflow-x-auto pb-4 items-center justify-center">
+      <div
+        className="flex gap-6 overflow-x-auto pb-4 items-center justify-center"
+        data-aos="fade-up"
+      >
         {data.map((card) => (
           <ResourcesCardView
             key={card.id}

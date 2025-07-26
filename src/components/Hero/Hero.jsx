@@ -27,7 +27,7 @@ const Hero = () => {
       {/* Main Content Container */}
       <div className="relative z-20 flex items-center justify-between h-full max-w-7xl mx-auto px-8">
         {/* Left Side - Text Content */}
-        <div className="flex-1 max-w-2xl">
+        <div className="flex-1 max-w-2xl" data-aos="fade-up">
           <h1 className="text-5xl lg:text-5xl font-extrabold mb-3 leading-tight">
             <span className="text-primary">FLORIDA AND TEXAS</span>
             <br />

@@ -11,7 +11,7 @@ const PastProjectsSection = () => {
       <div className="container mx-auto max-w-7xl">
         {/* Header */}
         <div className="text-start m-12">
-          <h2 className="text-4xl md:text-4xl font-bold text-white mb-4">
+          <h2 className="text-4xl md:text-4xl font-bold text-white mb-4" data-aos="fade-right">
             PAST PROJECTS
           </h2>
           <p className="text-sm md:text-lg text-white">
@@ -32,7 +32,7 @@ const PastProjectsSection = () => {
           </button>
 
           {/* Projects Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-0 md:px-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-0 md:px-16" data-aos="fade-up">
             {projectsData.map((project) => (
               <ProjectCard key={project.id} project={project} />
             ))}

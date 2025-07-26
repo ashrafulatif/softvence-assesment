@@ -17,7 +17,7 @@ const ReviewsSection = () => {
       <div className="relative z-10 container mx-auto px-4 h-full flex flex-col">
         {/* Title */}
         <div className="pt-16 pb-6 text-center">
-          <h2 className="text-4xl font-bold text-primary">
+          <h2 className="text-4xl font-bold text-primary" data-aos="fade-right">
             RIDGE STREET CLIENT REVIEWS
           </h2>
         </div>

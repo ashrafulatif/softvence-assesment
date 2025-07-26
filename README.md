@@ -38,6 +38,7 @@ A modern web application for Ridge Street, focused on private mortgage loans and
 
 - **Framework:** Next.js
 - **Styling:** Tailwind CSS, PostCSS
+-**AOS:** AOS for scroll animation
 - **Linting:** ESLint (`next/core-web-vitals`)
 - **Icons:** lucide-react
 - **Fonts:** Geist, Geist_Mono (Google Fonts)

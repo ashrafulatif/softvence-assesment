@@ -20,7 +20,7 @@ const LendSection = () => {
   return (
     <div className="bg-gradient-to-br from-[#165831] to-[#499668] py-12 px-6">
       {/* Heading */}
-      <div className="text-start mb-8 ml-6">
+      <div className="text-start mb-8 ml-6" data-aos="fade-right">
         <h2 className="text-3xl font-bold text-white mb-2">Where We Lend</h2>
         <p className=" text-white text-sm mb-3">
           Ridge Street provides hard money loans to real estate investors in 35

@@ -6,11 +6,11 @@ const LoanCard = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 py-10 mb-6">
       <div>
-        <h2 className="text-4xl text-primary font-bold text-center mb-8 mt-6">
+        <h2 className="text-4xl text-primary font-bold text-center mb-8 mt-6" data-aos="fade-up">
           LOAN PRODUCTS
         </h2>
       </div>
-      <div className="flex gap-6 flex-wrap justify-center items-stretch">
+      <div className="flex gap-6 flex-wrap justify-center items-stretch" data-aos="fade-right">
         <LoanCardView
           icon={<Wrench className="w-12 h-12" />}
           title="Fix and Flip"

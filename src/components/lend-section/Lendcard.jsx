@@ -2,7 +2,10 @@ import React from "react";
 
 const LendCard = ({ state, image, buttonText = "VIEW ALL LOCATIONS" }) => {
   return (
-    <div className="relative w-70 h-90  overflow-hidden shadow-lg">
+    <div
+      className="relative w-70 h-90  overflow-hidden shadow-lg"
+      data-aos="fade-up"
+    >
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img

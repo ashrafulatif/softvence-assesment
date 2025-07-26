@@ -5,7 +5,7 @@ import CustomButton from "../button/CustomButton";
 
 const GetStarted = () => {
   return (
-    <div className="relative w-full h-screen overflow-hidden bg-gray-100">
+    <div className="relative w-full h-screen overflow-hidden bg-gray-100" >
       {/* Blurred bg image */}
       <div className="absolute inset-0 z-0">
         <Image
@@ -27,7 +27,7 @@ const GetStarted = () => {
       {/* Main Content Container */}
       <div className="relative z-20 flex items-center justify-between h-full max-w-7xl mx-auto px-8">
         {/* Left Side - Text Content */}
-        <div className="flex-1 max-w-2xl">
+        <div className="flex-1 max-w-2xl" data-aos="fade-right">
           <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">
             <span className="text-primary">
               Ready To Get <br />
@@ -42,7 +42,7 @@ const GetStarted = () => {
           </p>
 
           {/* Custom Button */}
-          <div className="relative inline-block">
+          <div className="relative inline-block" >
             <CustomButton onClick={() => alert("Button Clicked!")}>
               GET PRE-APPROVED ONLINE
             </CustomButton>
