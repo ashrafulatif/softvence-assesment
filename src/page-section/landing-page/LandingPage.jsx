@@ -11,7 +11,7 @@ import ServicesSection from "@/components/services/ServivesSection";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { duration } from "@mui/material";
+
 const LandingPage = () => {
   useEffect(() => {
     AOS.init();
