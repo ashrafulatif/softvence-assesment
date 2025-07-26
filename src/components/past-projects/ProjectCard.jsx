@@ -17,7 +17,6 @@ const ProjectCard = ({ project }) => {
           For Sale
         </div>
       </div>
-
       {/* Content Section */}
       <div className="p-4 bg-white ">
         {/* Title and Location */}
@@ -28,6 +27,7 @@ const ProjectCard = ({ project }) => {
           <MapPin size={14} className="mr-1 text-primary" />
           <span className="text-sm">{project.location}</span>
         </div>
+        <hr className="my-4 border-t border-gray-200" />
 
         {/* Property Details Grid */}
         <div className="grid grid-cols-2 gap-3 mb-4">
@@ -48,7 +48,7 @@ const ProjectCard = ({ project }) => {
             <span>{project.bathrooms} Bathrooms</span>
           </div>
         </div>
-
+        <hr className="my-4 border-t border-gray-200" />
         {/* Financial Details */}
         <div className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-gray-700 mb-4">
           <div>
