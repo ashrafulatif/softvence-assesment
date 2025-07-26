@@ -4,7 +4,7 @@ import Hero from "@/components/Hero/Hero";
 import LendSection from "@/components/lend-section/LendSection";
 import PastProjectsSection from "@/components/past-projects/PastProjectsSection";
 import LoanCard from "@/components/rental-loan/LoanCard";
-import ResourcesSection from "@/components/resources-section/resourcesSection";
+import ResourcesSection from "@/components/resources-section/ResourcesSection";
 import ReviewsSection from "@/components/reviews-section/ReviewSection";
 import ServicesSection from "@/components/services/ServivesSection";
 const LandingPage = () => {

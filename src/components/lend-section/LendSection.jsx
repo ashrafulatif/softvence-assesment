@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import LendCard from "./LendCard";
+import LendCard from "./Lendcard";
 import CustomButton2 from "../button/CustomButton2";
 
 const LendSection = () => {
