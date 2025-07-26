@@ -7,23 +7,24 @@ A modern web application for Ridge Street, focused on private mortgage loans and
 ## 🚀 Project Setup
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/ashrafulatif/softvence-assesment.git
    cd softvence-assesment
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
-   # or
-   yarn install
+
    ```
 
 3. **Run the development server:**
+
    ```bash
    npm run dev
-   # or
-   yarn dev
+
    ```
 
 4. **Open in browser:**
@@ -50,6 +51,7 @@ A modern web application for Ridge Street, focused on private mortgage loans and
 ## 📸 Screenshots
 
 Landing page features sections such as:
+
 - Hero banner
 - Loan products (Fix and Flip, Rental Loans, etc.)
 - Lending states (focus on Texas and Florida)
@@ -60,15 +62,19 @@ Landing page features sections such as:
 ### Example Components
 
 #### Hero and Get Started Section
+
 ![Hero Section](public/hero1.png)
 
 #### Past Projects Section
+
 Each project card displays property images with details.
+![Past Projects](public/projects.png)
 
 #### Resource Cards
+
 Resource section cards display images and descriptions.
 
-*Note: All screenshots are sourced from the project’s `public` folder and sample data files. Replace with your own images as needed.*
+![Resources Card](public/resources.png)
 
 ---
 
